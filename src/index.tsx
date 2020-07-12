@@ -1,7 +1,8 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import App from "./App";
 
 ReactDOM.render(
-    <>hello bit full search</>,
+    <App></App>,
     document.getElementById("app-root")
 );
