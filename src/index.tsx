@@ -2,6 +2,6 @@ import * as React from "react";
 import * as ReactDOM from "react-dom";
 
 ReactDOM.render(
-    <>hello</>,
+    <>hello bit full search</>,
     document.getElementById("app-root")
 );
